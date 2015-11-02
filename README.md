@@ -1,0 +1,2 @@
+# RuleBasedAISystemforMedicalDomain
+Mini Project
